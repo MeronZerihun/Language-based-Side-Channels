@@ -1,0 +1,7 @@
+*.out
+*.dump
+*.do
+*.do_broken
+*.na
+*.txt.enc
+*.txt.new
